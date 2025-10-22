@@ -1,4 +1,4 @@
-export default function ContactPage (){
+export default function AboutPage (){
     return(
         <main className="p-10 text-center">
             <h1 className="text-2xl font-semibold text-purple-600">
